@@ -35,14 +35,6 @@ Higher entropy = stronger password
 
 ---
 
-
-
----
-
-
-
----
-
 ## Conclusion
 Strong passwords have higher entropy and are much harder to guess, while weak passwords are easily broken.
 
